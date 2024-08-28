@@ -39,3 +39,4 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. The game a
 - **Game**: Handles the game logic, including turns, win/draw detection, and game flow.
 
 ## Class Diagram
+![classDigram](https://github.com/user-attachments/assets/d1ed8526-9bc7-479b-a45d-df9034fb4ab6)
